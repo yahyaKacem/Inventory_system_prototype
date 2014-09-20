@@ -1,0 +1,33 @@
+{
+  "name": "Inventory_management_system",
+  "version": "0.0.1",
+  "description": "Inventory Management System",
+  "main": "main.js",
+  "keywords": ["Inventory Management"],
+  "authors":  ["Yahya Kacem <funj.tyoli@gmail.com>"],
+  "licenses": {"type": "MIT"},
+  "dependencies": {
+    "headjs": "*",
+    "jquery": "*",
+    "angular": "*",
+    "requirejs": "*",
+    "underscore": "*",
+    "Font-Awesome": "*",
+    "angular-mocks": "*",
+    "compass-mixins": "*",
+    "sass-bootstrap": "*",
+    "angular-animate": "*",
+    "angular-sanitize": "*",
+    "angular-bootstrap": "*",
+    "angular-ui-router": "*"
+  },
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/libs",
+    "test",
+    "tests"
+  ]
+}
